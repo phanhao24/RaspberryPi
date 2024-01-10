@@ -7,7 +7,7 @@
 
 /* Meta Information */
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("JPhan Hao");
+MODULE_AUTHOR("Phan Hao");
 MODULE_DESCRIPTION("A driver to write 'Hello World' to a LCD text display with I2C");
 
 #define DRIVER_NAME "lcd_i2c"
